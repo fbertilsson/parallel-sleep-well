@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveObject.NET3.5Client", "ActiveObject\ActiveObject.NET3.5Client.csproj", "{D648513B-AAB9-4881-963C-7E16C2F12F85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveObject.NET4.5", "ActiveObject.NET4.5\ActiveObject.NET4.5.csproj", "{F195E085-31AE-4197-A2E0-BAD6C94B9E7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D648513B-AAB9-4881-963C-7E16C2F12F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D648513B-AAB9-4881-963C-7E16C2F12F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D648513B-AAB9-4881-963C-7E16C2F12F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D648513B-AAB9-4881-963C-7E16C2F12F85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F195E085-31AE-4197-A2E0-BAD6C94B9E7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F195E085-31AE-4197-A2E0-BAD6C94B9E7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F195E085-31AE-4197-A2E0-BAD6C94B9E7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F195E085-31AE-4197-A2E0-BAD6C94B9E7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
